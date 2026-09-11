@@ -1,0 +1,551 @@
+{
+ "byObjId": {
+  "M31": {
+   "objName": "M 31",
+   "note": "Identical stack recipe and identical conditioning at every step; the only difference is how many exposures went in. The noise balance and the AI denoiser are switched off, because both would smooth the shallow steps harder and hide the very difference this is here to show.",
+   "curve": {
+    "gains": [
+     0.9619993567466736,
+     1.586706519126892,
+     0.7517315149307251
+    ],
+    "black": 0.0023678125022910538,
+    "midtone": 0.012869161810360262
+   },
+   "steps": [
+    {
+     "requested_min": 1,
+     "achieved_min": 1.0,
+     "frames": 11,
+     "path": "photos/showcase/M31_1min.jpg",
+     "sky": 0.0353,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 10,
+     "achieved_min": 10.1,
+     "frames": 54,
+     "path": "photos/showcase/M31_10min.jpg",
+     "sky": 0.0353,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 30,
+     "achieved_min": 30.1,
+     "frames": 114,
+     "path": "photos/showcase/M31_30min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 60,
+     "achieved_min": 60.1,
+     "frames": 204,
+     "path": "photos/showcase/M31_60min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 120,
+     "achieved_min": 120.1,
+     "frames": 556,
+     "path": "photos/showcase/M31_120min.jpg",
+     "sky": 0.0471,
+     "sky_noise": 0.02326
+    }
+   ]
+  },
+  "NGC6960": {
+   "objName": "NGC 6960",
+   "note": "Identical stack recipe and identical conditioning at every step; the only difference is how many exposures went in. The noise balance and the AI denoiser are switched off, because both would smooth the shallow steps harder and hide the very difference this is here to show.",
+   "curve": {
+    "gains": [
+     0.9436062574386597,
+     1.0111329555511475,
+     1.0512523651123047
+    ],
+    "black": 0.0016083338980842383,
+    "midtone": 0.0023437267112313667
+   },
+   "steps": [
+    {
+     "requested_min": 1,
+     "achieved_min": 1.0,
+     "frames": 3,
+     "path": "photos/showcase/NGC6960_1min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 10,
+     "achieved_min": 9.0,
+     "frames": 27,
+     "path": "photos/showcase/NGC6960_10min.jpg",
+     "sky": 0.0353,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 30,
+     "achieved_min": 29.0,
+     "frames": 87,
+     "path": "photos/showcase/NGC6960_30min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 60,
+     "achieved_min": 59.0,
+     "frames": 177,
+     "path": "photos/showcase/NGC6960_60min.jpg",
+     "sky": 0.0431,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 120,
+     "achieved_min": 118.5,
+     "frames": 403,
+     "path": "photos/showcase/NGC6960_120min.jpg",
+     "sky": 0.0431,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 139,
+     "achieved_min": 137.0,
+     "frames": 514,
+     "path": "photos/showcase/NGC6960_139min.jpg",
+     "sky": 0.0431,
+     "sky_noise": 0.02326
+    }
+   ]
+  },
+  "M20": {
+   "objName": "M 20",
+   "note": "Identical stack recipe and identical conditioning at every step; the only difference is how many exposures went in. The noise balance and the AI denoiser are switched off, because both would smooth the shallow steps harder and hide the very difference this is here to show.",
+   "curve": {
+    "gains": [
+     1.0672868490219116,
+     1.078714370727539,
+     0.8802697658538818
+    ],
+    "black": 0.0037452867153286934,
+    "midtone": 0.004898774749946922
+   },
+   "steps": [
+    {
+     "requested_min": 1,
+     "achieved_min": 1.0,
+     "frames": 6,
+     "path": "photos/showcase/M20_1min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 10,
+     "achieved_min": 10.0,
+     "frames": 60,
+     "path": "photos/showcase/M20_10min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 12,
+     "achieved_min": 12.0,
+     "frames": 72,
+     "path": "photos/showcase/M20_12min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02326
+    }
+   ]
+  },
+  "M8": {
+   "objName": "M 8",
+   "note": "Identical stack recipe and identical conditioning at every step; the only difference is how many exposures went in. The noise balance and the AI denoiser are switched off, because both would smooth the shallow steps harder and hide the very difference this is here to show.",
+   "curve": {
+    "gains": [
+     0.9108346104621887,
+     1.027137041091919,
+     1.07697594165802
+    ],
+    "black": 0.0017331531227566302,
+    "midtone": 0.010842011058660565
+   },
+   "steps": [
+    {
+     "requested_min": 1,
+     "achieved_min": 1.0,
+     "frames": 3,
+     "path": "photos/showcase/M8_1min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 10,
+     "achieved_min": 10.0,
+     "frames": 30,
+     "path": "photos/showcase/M8_10min.jpg",
+     "sky": 0.0431,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 30,
+     "achieved_min": 30.0,
+     "frames": 90,
+     "path": "photos/showcase/M8_30min.jpg",
+     "sky": 0.0471,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 60,
+     "achieved_min": 60.0,
+     "frames": 180,
+     "path": "photos/showcase/M8_60min.jpg",
+     "sky": 0.051,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 120,
+     "achieved_min": 116.3,
+     "frames": 349,
+     "path": "photos/showcase/M8_120min.jpg",
+     "sky": 0.051,
+     "sky_noise": 0.01744
+    },
+    {
+     "requested_min": 300,
+     "achieved_min": 294.7,
+     "frames": 884,
+     "path": "photos/showcase/M8_300min.jpg",
+     "sky": 0.0549,
+     "sky_noise": 0.01744
+    },
+    {
+     "requested_min": 589,
+     "achieved_min": 570.7,
+     "frames": 1831,
+     "path": "photos/showcase/M8_589min.jpg",
+     "sky": 0.0549,
+     "sky_noise": 0.01744
+    }
+   ]
+  },
+  "NGC6605": {
+   "objName": "NGC 6605",
+   "note": "Identical stack recipe and identical conditioning at every step; the only difference is how many exposures went in. The noise balance and the AI denoiser are switched off, because both would smooth the shallow steps harder and hide the very difference this is here to show.",
+   "curve": {
+    "gains": [
+     0.9749415516853333,
+     1.1083195209503174,
+     0.9328094124794006
+    ],
+    "black": 0.006144237699620426,
+    "midtone": 0.019551058432124464
+   },
+   "steps": [
+    {
+     "requested_min": 1,
+     "achieved_min": 1.0,
+     "frames": 3,
+     "path": "photos/showcase/NGC6605_1min.jpg",
+     "sky": 0.0353,
+     "sky_noise": 0.03488
+    },
+    {
+     "requested_min": 10,
+     "achieved_min": 10.0,
+     "frames": 30,
+     "path": "photos/showcase/NGC6605_10min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 30,
+     "achieved_min": 30.0,
+     "frames": 90,
+     "path": "photos/showcase/NGC6605_30min.jpg",
+     "sky": 0.0431,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 60,
+     "achieved_min": 60.0,
+     "frames": 180,
+     "path": "photos/showcase/NGC6605_60min.jpg",
+     "sky": 0.0471,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 120,
+     "achieved_min": 119.3,
+     "frames": 358,
+     "path": "photos/showcase/NGC6605_120min.jpg",
+     "sky": 0.0471,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 300,
+     "achieved_min": 292.0,
+     "frames": 876,
+     "path": "photos/showcase/NGC6605_300min.jpg",
+     "sky": 0.0471,
+     "sky_noise": 0.01744
+    }
+   ]
+  },
+  "FAM-M8-M20": {
+   "objName": "M 8",
+   "note": "Identical stack recipe and identical conditioning at every step; the only difference is how many exposures went in. The noise balance and the AI denoiser are switched off, because both would smooth the shallow steps harder and hide the very difference this is here to show.",
+   "curve": {
+    "gains": [
+     0.9108346104621887,
+     1.027137041091919,
+     1.07697594165802
+    ],
+    "black": 0.0017331531227566302,
+    "midtone": 0.010842011058660565
+   },
+   "steps": [
+    {
+     "requested_min": 1,
+     "achieved_min": 1.0,
+     "frames": 3,
+     "path": "photos/showcase/FAM-M8-M20_1min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 10,
+     "achieved_min": 10.0,
+     "frames": 30,
+     "path": "photos/showcase/FAM-M8-M20_10min.jpg",
+     "sky": 0.0431,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 30,
+     "achieved_min": 30.0,
+     "frames": 90,
+     "path": "photos/showcase/FAM-M8-M20_30min.jpg",
+     "sky": 0.0471,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 60,
+     "achieved_min": 60.0,
+     "frames": 180,
+     "path": "photos/showcase/FAM-M8-M20_60min.jpg",
+     "sky": 0.051,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 120,
+     "achieved_min": 116.3,
+     "frames": 349,
+     "path": "photos/showcase/FAM-M8-M20_120min.jpg",
+     "sky": 0.051,
+     "sky_noise": 0.01744
+    },
+    {
+     "requested_min": 300,
+     "achieved_min": 294.7,
+     "frames": 884,
+     "path": "photos/showcase/FAM-M8-M20_300min.jpg",
+     "sky": 0.0549,
+     "sky_noise": 0.01744
+    },
+    {
+     "requested_min": 589,
+     "achieved_min": 570.7,
+     "frames": 1831,
+     "path": "photos/showcase/FAM-M8-M20_589min.jpg",
+     "sky": 0.0549,
+     "sky_noise": 0.01744
+    }
+   ],
+   "aliasOf": "M8"
+  },
+  "FAM-M16-M17": {
+   "objName": "NGC 6605",
+   "note": "Identical stack recipe and identical conditioning at every step; the only difference is how many exposures went in. The noise balance and the AI denoiser are switched off, because both would smooth the shallow steps harder and hide the very difference this is here to show.",
+   "curve": {
+    "gains": [
+     0.9749415516853333,
+     1.1083195209503174,
+     0.9328094124794006
+    ],
+    "black": 0.006144237699620426,
+    "midtone": 0.019551058432124464
+   },
+   "steps": [
+    {
+     "requested_min": 1,
+     "achieved_min": 1.0,
+     "frames": 3,
+     "path": "photos/showcase/FAM-M16-M17_1min.jpg",
+     "sky": 0.0353,
+     "sky_noise": 0.03488
+    },
+    {
+     "requested_min": 10,
+     "achieved_min": 10.0,
+     "frames": 30,
+     "path": "photos/showcase/FAM-M16-M17_10min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 30,
+     "achieved_min": 30.0,
+     "frames": 90,
+     "path": "photos/showcase/FAM-M16-M17_30min.jpg",
+     "sky": 0.0431,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 60,
+     "achieved_min": 60.0,
+     "frames": 180,
+     "path": "photos/showcase/FAM-M16-M17_60min.jpg",
+     "sky": 0.0471,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 120,
+     "achieved_min": 119.3,
+     "frames": 358,
+     "path": "photos/showcase/FAM-M16-M17_120min.jpg",
+     "sky": 0.0471,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 300,
+     "achieved_min": 292.0,
+     "frames": 876,
+     "path": "photos/showcase/FAM-M16-M17_300min.jpg",
+     "sky": 0.0471,
+     "sky_noise": 0.01744
+    }
+   ],
+   "aliasOf": "NGC6605"
+  },
+  "FAM-M31-M110": {
+   "objName": "M 31",
+   "note": "Identical stack recipe and identical conditioning at every step; the only difference is how many exposures went in. The noise balance and the AI denoiser are switched off, because both would smooth the shallow steps harder and hide the very difference this is here to show.",
+   "curve": {
+    "gains": [
+     0.9619993567466736,
+     1.586706519126892,
+     0.7517315149307251
+    ],
+    "black": 0.0023678125022910538,
+    "midtone": 0.012869161810360262
+   },
+   "steps": [
+    {
+     "requested_min": 1,
+     "achieved_min": 1.0,
+     "frames": 11,
+     "path": "photos/showcase/FAM-M31-M110_1min.jpg",
+     "sky": 0.0353,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 10,
+     "achieved_min": 10.1,
+     "frames": 54,
+     "path": "photos/showcase/FAM-M31-M110_10min.jpg",
+     "sky": 0.0353,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 30,
+     "achieved_min": 30.1,
+     "frames": 114,
+     "path": "photos/showcase/FAM-M31-M110_30min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 60,
+     "achieved_min": 60.1,
+     "frames": 204,
+     "path": "photos/showcase/FAM-M31-M110_60min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 120,
+     "achieved_min": 120.1,
+     "frames": 556,
+     "path": "photos/showcase/FAM-M31-M110_120min.jpg",
+     "sky": 0.0471,
+     "sky_noise": 0.02326
+    }
+   ],
+   "aliasOf": "M31"
+  },
+  "FAM-NGC6960-NGC6992": {
+   "objName": "NGC 6960",
+   "note": "Identical stack recipe and identical conditioning at every step; the only difference is how many exposures went in. The noise balance and the AI denoiser are switched off, because both would smooth the shallow steps harder and hide the very difference this is here to show.",
+   "curve": {
+    "gains": [
+     0.9436062574386597,
+     1.0111329555511475,
+     1.0512523651123047
+    ],
+    "black": 0.0016083338980842383,
+    "midtone": 0.0023437267112313667
+   },
+   "steps": [
+    {
+     "requested_min": 1,
+     "achieved_min": 1.0,
+     "frames": 3,
+     "path": "photos/showcase/FAM-NGC6960-NGC6992_1min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02907
+    },
+    {
+     "requested_min": 10,
+     "achieved_min": 9.0,
+     "frames": 27,
+     "path": "photos/showcase/FAM-NGC6960-NGC6992_10min.jpg",
+     "sky": 0.0353,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 30,
+     "achieved_min": 29.0,
+     "frames": 87,
+     "path": "photos/showcase/FAM-NGC6960-NGC6992_30min.jpg",
+     "sky": 0.0392,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 60,
+     "achieved_min": 59.0,
+     "frames": 177,
+     "path": "photos/showcase/FAM-NGC6960-NGC6992_60min.jpg",
+     "sky": 0.0431,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 120,
+     "achieved_min": 118.5,
+     "frames": 403,
+     "path": "photos/showcase/FAM-NGC6960-NGC6992_120min.jpg",
+     "sky": 0.0431,
+     "sky_noise": 0.02326
+    },
+    {
+     "requested_min": 139,
+     "achieved_min": 137.0,
+     "frames": 514,
+     "path": "photos/showcase/FAM-NGC6960-NGC6992_139min.jpg",
+     "sky": 0.0431,
+     "sky_noise": 0.02326
+    }
+   ],
+   "aliasOf": "NGC6960"
+  }
+ }
+}
